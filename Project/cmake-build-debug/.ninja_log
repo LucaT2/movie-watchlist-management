@@ -1,0 +1,20 @@
+# ninja log v6
+10	98	7810369911181167	D:/Github LT/Personal-proj-watchlist/movie-watchlist-management/Project/cmake-build-debug/Project_autogen/mocs_compilation.cpp	3ce6c1e7943c45f9
+10	98	7810369911181167	Project_autogen/timestamp	3ce6c1e7943c45f9
+304	1466	7810369190595186	CMakeFiles/Project.dir/Validators_Exceptions/Validators.cpp.obj	9fbbde0621589c4
+10	98	7810369911181167	Project_autogen/mocs_compilation.cpp	3ce6c1e7943c45f9
+298	1488	7810369190525133	CMakeFiles/Project.dir/Repositories/Movies.cpp.obj	58ae720ed49f9dfe
+308	1147	7810369190625198	CMakeFiles/Project.dir/Validators_Exceptions/Exceptions.cpp.obj	1c05ee1486a66c20
+10	98	7810369911181167	D:/Github LT/Personal-proj-watchlist/movie-watchlist-management/Project/cmake-build-debug/Project_autogen/timestamp	3ce6c1e7943c45f9
+286	380	7810369190415106	CMakeFiles/Project.dir/Project_autogen/mocs_compilation.cpp.obj	7222d91dbc69053f
+1466	8467	7810369202212909	CMakeFiles/Project.dir/sqlite3/sqlite3.c.obj	589783d8cf53837c
+292	2397	7810369190465121	CMakeFiles/Project.dir/Repositories/File_Repository.cpp.obj	989df2432c96ba86
+295	2440	7810369190495106	CMakeFiles/Project.dir/Controller/Service.cpp.obj	865a7cbb7338a52d
+380	2472	7810369191350359	CMakeFiles/Project.dir/Tests/Tests.cpp.obj	9bbb78263103cdff
+289	6008	7810369190445091	CMakeFiles/Project.dir/main.cpp.obj	157f0b1023d6c182
+1148	2719	7810369199037045	CMakeFiles/Project.dir/Repositories/DB_Repository.cpp.obj	336ff0b14d3616c9
+301	4726	7810369190555105	CMakeFiles/Project.dir/Repositories/WatchList.cpp.obj	a458d08ff3f3e873
+315	5162	7810369190695201	CMakeFiles/Project.dir/GUI/WatchlistModel.cpp.obj	80932c0244a6c564
+311	6725	7810369190655190	CMakeFiles/Project.dir/GUI/GUI.cpp.obj	5258852765fd74e7
+8468	9250	7810369272235545	Project.exe	7e7f7ab252b07b95
+6	635	7810369965353762	build.ninja	3f821a653bb045c2

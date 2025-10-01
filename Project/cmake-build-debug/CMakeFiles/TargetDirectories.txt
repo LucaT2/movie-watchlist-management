@@ -1,0 +1,5 @@
+D:/Github LT/Personal-proj-watchlist/movie-watchlist-management/Project/cmake-build-debug/CMakeFiles/Project.dir
+D:/Github LT/Personal-proj-watchlist/movie-watchlist-management/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Github LT/Personal-proj-watchlist/movie-watchlist-management/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Github LT/Personal-proj-watchlist/movie-watchlist-management/Project/cmake-build-debug/CMakeFiles/Project_autogen_timestamp_deps.dir
+D:/Github LT/Personal-proj-watchlist/movie-watchlist-management/Project/cmake-build-debug/CMakeFiles/Project_autogen.dir
